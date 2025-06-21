@@ -2,6 +2,8 @@
 
 As a developer advocating for user privacy and digital transparency, I created **Permission Analyzer** to provide a transparent view of browser permissions in real time. In an age where data access often happens silently, this tool helps users stay informed about what websites are requesting—without compromising their privacy. Built with simplicity, performance, and security in mind, this extension reflects my ongoing commitment to open-source solutions that prioritize user trust and control.
 
+---
+
 ## Privacy & Security
 
 This extension prioritizes privacy:
@@ -40,11 +42,11 @@ Each permission access is logged with a timestamp and stored **only on your devi
 
 ## 📁 Installation (Manual)
 
-1. Download or clone this repository
-2. Go to `chrome://extensions/`
-3. Enable **Developer mode**
-4. Click **Load unpacked** and select the extension folder
-5. Done! 🎉
+1. Download or clone this repository git clone https://github.com/LnDas/permission-analyzer.git
+3. Go to `chrome://extensions/`
+4. Enable **Developer mode**
+5. Click **Load unpacked** and select the extension folder
+6. Done! 🎉
 
 ---
 
