@@ -1,10 +1,8 @@
-# 🔐 Permission Analyzer
+## Why I Built This
 
-## 🧠 Why I Built This
+As a developer advocating for user privacy and digital transparency, I created **Permission Analyzer** to provide a transparent view of browser permissions in real time. In an age where data access often happens silently, this tool helps users stay informed about what websites are requesting—without compromising their privacy. Built with simplicity, performance, and security in mind, this extension reflects my ongoing commitment to open-source solutions that prioritize user trust and control.
 
-As a developer passionate about privacy and user empowerment, I created **Permission Analyzer** to provide a transparent view of browser permissions in real time. In an age where data access often happens silently, this tool helps users stay informed about what websites are requesting—without compromising their privacy. Built with simplicity, performance, and security in mind, this extension reflects my ongoing commitment to open-source solutions that prioritize user trust and control.
-
-## 🛡️ Privacy & Security
+## Privacy & Security
 
 This extension prioritizes privacy:
 
@@ -21,11 +19,11 @@ The source code is 100% open source and auditable. You're in full control.
 
 **Permission Analyzer** is a privacy-focused Chrome extension that logs when websites access sensitive browser permissions like:
 
-- 📍 Location
-- 🎤 Microphone
-- 📷 Camera
-- 📋 Clipboard Read
-- 🔔 Notifications
+-  Location
+-  Microphone
+-  Camera
+-  Clipboard Read
+-  Notifications
 
 Each permission access is logged with a timestamp and stored **only on your device**. You can easily export your logs as a Markdown file for records, analysis, or reporting.
 
