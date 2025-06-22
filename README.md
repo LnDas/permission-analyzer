@@ -80,7 +80,7 @@ This extension is especially useful to **log site permission usage** over time, 
 ---
 
 ## 📄 License
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [MIT License](LICENSE)
 
 ---
 
